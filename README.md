@@ -1,4 +1,4 @@
-# E-Commerce Customer Behavior Analysis
+# E-Commerce Sales Analysis
 
 Analyzed the purchasing behavior of 349 e-commerce customers using Python and Power BI to surface insights on membership value, geography, demographics, and discount strategy.
 
